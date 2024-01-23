@@ -1,0 +1,63 @@
+[
+    {
+        "name":"Dit University",
+        "fees":200000,
+        "placement":600000
+        
+    },
+    {
+        "name":"UPES",
+        "fees":1900000,
+        "placement":700000
+    },{
+        "name":"Graphic Era",
+        "fees":210000,
+        "placement":400000
+    },{
+        "name":"Uttranchal University",
+        "fees":180000,
+        "placement":900000
+    },{
+        "name":"Kumaon University",
+        "fees":1400000,
+        "placement":605000
+    },{
+        "name":"DBS",
+        "fees":550000,
+        "placement":780000
+    },{
+        "name":"Jagran University",
+        "fees":220000,
+        "placement":899000
+    },{
+        "name":"Kanpur University",
+        "fees":800000,
+        "placement":550000
+    },{
+        "name":"Patanja;i University",
+        "fees":60000,
+        "placement":300000
+    },{
+        "name":"THAPAR UNIVERSITY",
+        "fees":1300000,
+        "placement":100000
+    },{
+        "name":"Tulas University",
+        "fees":900000,
+        "placement":300000
+    },{
+        "name":"Vit UNiversity",
+        "fees":250000,
+        "placement":100000
+    },{
+        "name":"Manipal University",
+        "fees":290000,
+        "placement":100000
+    }
+    ,{
+        "name":"DIT University - [DIT], Dehradun",
+        "fees":99000,
+        "placement":1500000
+    }
+
+]

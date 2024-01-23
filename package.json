@@ -1,0 +1,17 @@
+{
+  "name": "unially",
+  "version": "1.0.0",
+  "description": "a fully flexible website for students to find a better and efficient college for them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.21",
+    "node-fetch": "^2.6.9"
+  }
+}
